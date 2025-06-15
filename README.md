@@ -1,4 +1,4 @@
-# Modelos-de-Linguagens-e-Programa-o-2---Projeto-de-Marmoraria
+# Modelos-e-Linguagens-de-Programacao-2---Projeto-de-Marmoraria
 
 Sistema de console desenvolvido como trabalho prático para a disciplina de Modelos e Linguagem de Programação II do curso de Sistemas de Informação da Faculdade Multivix.
 
