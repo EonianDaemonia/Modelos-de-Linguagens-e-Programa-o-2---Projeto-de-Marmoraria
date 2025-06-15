@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e787tHt0zX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juvio\\OneDrive\\Documentos\\Trabalho Mod e Ling P II\\ProjetoMarmoraria\\ProjetoMarmoraria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juvio\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\juvio\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
