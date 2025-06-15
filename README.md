@@ -17,7 +17,7 @@ Sistema de console desenvolvido como trabalho prático para a disciplina de Mode
 1.  **Pré-requisitos:** É necessário ter o [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) instalado.
 2.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone [https://github.com/EonianDaemonia/Modelos-de-Linguagens-e-Programa-o-2---Projeto-de-Marmoraria]
     ```
 3.  **Navegue até a pasta do projeto:**
     ```bash
