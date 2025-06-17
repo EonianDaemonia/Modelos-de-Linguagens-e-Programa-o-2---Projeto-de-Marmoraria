@@ -2,7 +2,7 @@
 
 Sistema de console desenvolvido como trabalho prático para a disciplina de Modelos e Linguagem de Programação II do curso de Sistemas de Informação da Faculdade Multivix.
 
-## Integrantes do Grupo
+## Colaboradores do Projeto
 
 * Alicya Silva Brandão, Júlia Vionette Guimarães, Rafael de Almeida Pereira e Tiago Henrique Carvalho Fonseca André.
 
